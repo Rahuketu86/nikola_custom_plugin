@@ -1,0 +1,9 @@
+[Core]
+Name = print_config
+Module = print_config
+
+[Documentation]
+Author = Rahuketu86
+Version = 0.1.0 
+Website = https://customplugins.netlify.com
+Description = "Prints site Config"
